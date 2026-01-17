@@ -1,4 +1,4 @@
-# runtimes-og-frameworks-installer
+# Runtimes og Frameworks installer
 En samling scripts der installere forskellige runtimes og frameworks samt danske sprog pakker hvis de eksistere til softwaren.
 
 <H2>Pakken indeholder lige nu følgene software.</H2>
