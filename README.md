@@ -2,7 +2,8 @@
 En samling scripts der installere forskellige runtimes og frameworks samt danske sprog pakker hvis de eksistere til softwaren.
 
 Pakken indeholder lige nu følgene software.
-Microsoft Visual C++ (x86/x64)
+<br>
+Microsoft Visual C++ (x86/x64)<br>
 2005 (VC++ 8.0)
 2008 (VC++ 9.0)
 2010 (VC++ 10.0)
