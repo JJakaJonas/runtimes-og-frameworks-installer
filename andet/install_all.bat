@@ -13,6 +13,9 @@ cd DirectX 9c
 start /wait DXSETUP.exe /silent
 cd ..
 echo.
+echo XNA Framework Redistributable 4.0
+msiexec /i xnafx40_redist.msi /qn
+echo.
 echo OpenAL...
 start /wait OpenAL.exe /S
 
